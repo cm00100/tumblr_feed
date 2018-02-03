@@ -1,0 +1,6 @@
+framework module Pods_tumblr_feed {
+  umbrella header "Pods-tumblr_feed-umbrella.h"
+
+  export *
+  module * { export * }
+}
